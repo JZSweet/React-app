@@ -5,5 +5,11 @@
 
 .section h2 {
   text-align: center;
+  font-size: xx-large;
+}
+
+.section p {
+  text-align: center;
+  font-size: x-large;
 }
 
